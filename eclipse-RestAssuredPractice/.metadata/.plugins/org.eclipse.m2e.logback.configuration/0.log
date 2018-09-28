@@ -1,0 +1,20 @@
+2018-03-15 22:16:29,457 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-16 21:26:45,145 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-19 20:32:42,892 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-03-20 20:31:01,555 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-23 21:34:57,016 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-09 21:06:54,153 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-31 23:20:42,209 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-31 23:36:01,166 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-03 20:32:20,658 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-09-03 21:04:27,719 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-04 00:13:19,023 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APIFramework:PracticeRestAssured:1.0-SNAPSHOT @ C:\Users\mitchxxx1\PracticeRestAssured\pom.xml.
+2018-09-04 00:13:19,816 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticeRestAssured/src/main/java
+2018-09-04 00:13:19,816 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticeRestAssured/src/test/java
+2018-09-04 00:13:19,908 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-09-04 00:13:20,211 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 00:13:20,211 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchxxx1\PracticeRestAssured\src\main\resources
+2018-09-04 00:13:20,226 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 00:13:20,226 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchxxx1\PracticeRestAssured\src\test\resources
+2018-09-04 22:44:59,532 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-09-23 18:43:25,047 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test" duration-ms="42" started-at="2018-03-29T21:03:44Z" finished-at="2018-03-29T21:03:44Z">
+    <groups>
+    </groups>
+    <test name="Smoke TestCases" duration-ms="42" started-at="2018-03-29T21:03:44Z" finished-at="2018-03-29T21:03:44Z">
+      <class name="TestngFiles.Annotations">
+        <test-method status="PASS" signature="Cookies()[pri:0, instance:TestngFiles.Annotations@9629756]" name="Cookies" is-config="true" duration-ms="0" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies -->
+        <test-method status="PASS" signature="FlightBooking()[pri:0, instance:TestngFiles.Annotations@9629756]" name="FlightBooking" duration-ms="17" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightBooking -->
+        <test-method status="PASS" signature="UserIdGeneration()[pri:0, instance:TestngFiles.Annotations@9629756]" name="UserIdGeneration" is-config="true" duration-ms="0" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserIdGeneration -->
+        <test-method status="PASS" signature="ReportAdding()[pri:0, instance:TestngFiles.Annotations@9629756]" name="ReportAdding" is-config="true" duration-ms="0" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportAdding -->
+        <test-method status="PASS" signature="UserIdGeneration()[pri:0, instance:TestngFiles.Annotations@9629756]" name="UserIdGeneration" is-config="true" duration-ms="0" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserIdGeneration -->
+        <test-method status="PASS" signature="OpeningBrowser()[pri:0, instance:TestngFiles.Annotations@9629756]" name="OpeningBrowser" duration-ms="1" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrowser -->
+        <test-method status="PASS" signature="ReportAdding()[pri:0, instance:TestngFiles.Annotations@9629756]" name="ReportAdding" is-config="true" duration-ms="1" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportAdding -->
+        <test-method status="PASS" signature="CookiesClose()[pri:0, instance:TestngFiles.Annotations@9629756]" name="CookiesClose" is-config="true" duration-ms="1" started-at="2018-03-29T22:03:44Z" finished-at="2018-03-29T22:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookiesClose -->
+      </class> <!-- TestngFiles.Annotations -->
+    </test> <!-- Smoke TestCases -->
+  </suite> <!-- Automation Test -->
+</testng-results>

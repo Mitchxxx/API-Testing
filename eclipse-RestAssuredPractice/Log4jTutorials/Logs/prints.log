@@ -1,0 +1,5 @@
+23:03:13.235 [main] DEBUG beta.Demo1 - I have clicked on button
+23:03:13.251 [main] INFO  beta.Demo1 - Button is displayed
+23:03:13.251 [main] INFO  beta.Demo1 - Object is present
+23:03:13.251 [main] ERROR beta.Demo1 - Button is not displayed
+23:03:13.251 [main] FATAL beta.Demo1 - Button is missing

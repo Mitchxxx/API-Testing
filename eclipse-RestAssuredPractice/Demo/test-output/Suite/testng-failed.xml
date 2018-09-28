@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="RestAPI(failed)">
+    <classes>
+      <class name="DemoClass.Basics4">
+        <methods>
+          <include name="postData"/>
+        </methods>
+      </class> <!-- DemoClass.Basics4 -->
+      <class name="DemoClass.Basics6">
+        <methods>
+          <include name="JiraAPI"/>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- DemoClass.Basics6 -->
+      <class name="DemoClass.Basics9">
+        <methods>
+          <include name="DeleteTweet"/>
+          <include name="getLatestTweet"/>
+        </methods>
+      </class> <!-- DemoClass.Basics9 -->
+      <class name="DemoClass.Basics3">
+        <methods>
+          <include name="AddandDelete"/>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- DemoClass.Basics3 -->
+      <class name="DemoClass.Basics2">
+        <methods>
+          <include name="postData"/>
+        </methods>
+      </class> <!-- DemoClass.Basics2 -->
+      <class name="DemoClass.Basics5">
+        <methods>
+          <include name="BasicsRestAssured"/>
+        </methods>
+      </class> <!-- DemoClass.Basics5 -->
+    </classes>
+  </test> <!-- RestAPI(failed) -->
+</suite> <!-- Failed suite [Suite] -->
